@@ -1,0 +1,47 @@
+WITAJ!
+Jezeli pierwszy raz odpaliles program i sie tutaj znalazles to bardzo dobrze! Dowiesz sie wszystkiego co najwazniejsze.
+
+Zacznijmy od tego, jakie mozliwosci daje program:
+***************************************************************************
+1. Rozgrywka GRACZ vs GRACZ
+Ten tryb pozwala na rozgrywke przy jednej klawiaturze odczuc namiastke bitwy 
+morskiej. Wciel sie w role Admirala floty i poprowadz swa flotylle 
+ku zwyciestwu !
+***************************************************************************
+2. Rozgrywka GRACZ vs PC
+Ten tryb zostal przygotowany dla osob ktore nie maja w danej chwili z kim 
+zagrac a sa spragnieni zwyciestwa!
+***************************************************************************
+3. HALL OF FAME
+To tutaj sa zgromadzone wyniki najwiekszych wilkow morskich. Jak sie postarasz
+to moze i Ty tutaj zawitasz
+
+Z czym to zjesc....
+
+LEGENDA:
+[ ] - puste pole
+[*] - pole okretu
+[X] - trafiony okret
+[O] - pudlo
+
+FAZA: ROZSTAWIANIE:
+Rozstawia gracz (na zmiane gracze w trybie dla dwoch) poprzez okreslenie pionu
+(pionowo/poziomo) a nastepnie podanie zakresu w zaleznosci od rodzaju statku.
+np: pionowo czteromasztowiec bedzie: 4 A D - zajmie pola A4,B4,C4,D4.
+Wyjatkiem sa jednomasztowce gdzie nie trzeba sie tym martwic po prostu wstawiajac
+po prostu np. A 7
+FAZA: WALKA:
+Pojawia ci sie dwie plansze - u gory rozstawienia Twoich statkow. Na dole znajduje
+sie Twoja strzelnica. Tam sie pojawiaja odpowiednio trafienia/pudla.
+Pamietaj o tym, ze program NIE POINFORMUJE o tym, ze w to pole juz celowales. Stracisz
+tylko cenne punkty.
+Starasz sie pokonaz przeciwnika wyznaczajac pola do strzelania np. F 5
+Zwyciestwo nastpuje kiedy ktos trafi wszystkie punkty statkow (20)
+
+UWAGI!
+Co zostalo pominiete...
+1.Nie wystepuje mozliwosc kontynuacji.
+2.W przeciwienstwie do tradycyjnej rozgrywki statki mozna ustawiac obok siebie
+3.Podczas strzelania mozesz dublowac pola... ale tracisz punkty
+
+AUTOR: Michal Majewski
